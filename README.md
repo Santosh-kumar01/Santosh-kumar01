@@ -6,13 +6,30 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santosh-kumar01&label=Profile%20views&color=0e75b6&style=flat" alt="santosh-kumar01" /> </p>
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently Aspiring  **Software Developer**
 
-- 💬 Ask me about **Web Development**
+- 💬 Ask me about **Full Stack Development**
 
 - 📫 How to reach me **bk318710@gmail.com**
 
-- ⚡ Fun fact **I'm funny**
+- ⚡ Fun fact **I’m an Enthusiastic and versatile Web developer looking to take up new challenges every day.😍
+
+I Strongly believe in providing as much value as possible to the end user in varied roles such as a developer, a senior and a junior !!
+
+During my studies, I actively participated in projects and internships. One of my notable projects was CODEBASE INTEGRATED DEVELOPMENT ENVIRONMENT , an Real time code editor platform developed using Next.js, TailwindCSS, Monaco Editor, Socket.IO client, Node.js (Express), Dockerode, Node-PTY, Socket.IO server, Docker, Traefik. This experience allowed me to enhance my skills in software development.
+
+✍️Skills:- Data Structure and algorithms(DSA), Object-Oriented Programming System(OOPS) Concept, Data Base Management System(DBMS), Operating Systems,Algorithms,Communication, Structured Query Language(SQL),Problem Solving,Artificial Intelligence(AI).
+
+
+👨🏻‍💻Programing Languages:- C, Java, Python, JavaScript, TypeScript, SQL.
+
+👨🏻‍💻Developer Tools: VS Code,Postman, Kaggle Notebook, Jupyter Notebook, Amazon Web Services (AWS), Git.
+
+👨🏻‍💻Technologies/Frameworks: ReactJS, NextJS, Express.js, Redux, Tailwind CSS, Linux, GitHub.
+
+Always looking forward to learning and growing!!✨
+
+Happy to connect and help!🤝**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
