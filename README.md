@@ -14,18 +14,8 @@
 
 - ⚡ Fun fact **I’m an Enthusiastic and versatile Web developer looking to take up new challenges every day.😍
 
-I Strongly believe in providing as much value as possible to the end user in varied roles such as a developer, a senior and a junior !!
 
-During my studies, I actively participated in projects and internships. One of my notable projects was CODEBASE INTEGRATED DEVELOPMENT ENVIRONMENT , an Real time code editor platform developed using Next.js, TailwindCSS, Monaco Editor, Socket.IO client, Node.js (Express), Dockerode, Node-PTY, Socket.IO server, Docker, Traefik. This experience allowed me to enhance my skills in software development.
-
-✍️Skills:- Data Structure and algorithms(DSA), Object-Oriented Programming System(OOPS) Concept, Data Base Management System(DBMS), Operating Systems,Algorithms,Communication, Structured Query Language(SQL),Problem Solving,Artificial Intelligence(AI).
-
-
-👨🏻‍💻Programing Languages:- C, Java, Python, JavaScript, TypeScript, SQL.
-
-👨🏻‍💻Developer Tools: VS Code,Postman, Kaggle Notebook, Jupyter Notebook, Amazon Web Services (AWS), Git.
-
-👨🏻‍💻Technologies/Frameworks: ReactJS, NextJS, Express.js, Redux, Tailwind CSS, Linux, GitHub.
+Aspiring Software Developer currently pursuing a B.Tech in CSE with a specialization in Data Science from Haldia Institute of Technology. Strong foundation in DSA, OS, OOP, and Computer Networks with a keen interest in problem-solving and algorithmic thinking. Developed a full-stack, serverless EduTracking System for the CSE-DS department with real-time tracking, dashboards, secure uploads, and advanced analytics—supporting over 500 users. The system enables data-driven decision-making and role-based academic management. Proficient in Java 8, JavaScript, TypeScript, React.js, Express.js, and Node.js. Passionate about scalable system design, full-stack development, and solving real-world challenges through impactful technology solutions.
 
 Always looking forward to learning and growing!!✨
 
