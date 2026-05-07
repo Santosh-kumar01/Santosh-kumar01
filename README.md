@@ -46,12 +46,12 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<!-- <div align="center">
 
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Santosh-kumar01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=e0f2fe" />
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Santosh-kumar01&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=F97316&currStreakLabel=38BDF8" />
 
-</div>
+</div> -->
 
 ---
 
