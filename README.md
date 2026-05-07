@@ -1,44 +1,71 @@
-[![MasterHead](https://media.istockphoto.com/id/1803992649/vector/software-development-coding-process-concept-programming-testing-cross-platform-code-app-on.jpg?s=2048x2048&w=is&k=20&c=4ZEBBpVNk7-iCWg8Yc2wiUQ7yMbTSDnEOQ5VfRWv-R8=)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Santosh Kumar</h1>
-<h3 align="center">I’m an Enthusiastic and versatile Web developer looking to take up new challenges every day</h3>
-<img align="right" alt="Coding" width="400"src="https://miro.medium.com/v2/resize:fit:996/format:webp/1*xNQKHj5vR7w9AcY_bDKYYw.gif">
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:0d1f3c,100:0a2a4a&height=200&section=header&text=Santosh%20Kumar&fontSize=48&fontColor=e0f2fe&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20Data%20Science%20%E2%80%A2%20AI%2FML&descAlignY=58&descSize=16" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=santosh-kumar01&label=Profile%20views&color=0e75b6&style=flat" alt="santosh-kumar01" /> </p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+%7C+React+%2B+Node.js;AI%2FML+%26+LLM+App+Builder;250%2B+DSA+Problems+%7C+LeetCode;3rd+Runner-Up+%E2%80%94+HackFest+2K25%2C+IIT+(ISM)" />
 
-- 🌱 I’m currently Aspiring  **Software Developer**
+</div>
 
-- 💬 Ask me about **Full Stack Development**
+---
 
-- 📫 How to reach me **bk318710@gmail.com**
+## 🧑‍💻 About Me
 
-- ⚡ Fun fact **I’m an Enthusiastic and versatile Web developer looking to take up new challenges every day.😍
+- 🎓 B.Tech CSE (Data Science) — Haldia Institute of Technology | **CGPA: 8.01/10**
+- ⚡ Building scalable full-stack apps with **React, Node.js, TypeScript**
+- 🤖 Interested in **AI/ML, NLP & LLM-based applications**
+- 🏆 3rd Runner-Up — **HackFest 2K25, IIT (ISM) Dhanbad**
+- 💡 Solved **250+ DSA problems** on LeetCode
+- 📍 Dhanbad, Jharkhand, India
 
+---
 
-Aspiring Software Developer currently pursuing a B.Tech in CSE with a specialization in Data Science from Haldia Institute of Technology. Strong foundation in DSA, OS, OOP, and Computer Networks with a keen interest in problem-solving and algorithmic thinking. Developed a full-stack, serverless EduTracking System for the CSE-DS department with real-time tracking, dashboards, secure uploads, and advanced analytics—supporting over 500 users. The system enables data-driven decision-making and role-based academic management. Proficient in Java 8, JavaScript, TypeScript, React.js, Express.js, and Node.js. Passionate about scalable system design, full-stack development, and solving real-world challenges through impactful technology solutions.
+## 🛠️ Tech Stack
 
-Always looking forward to learning and growing!!✨
+<div align="center">
 
-Happy to connect and help!🤝**
+![Python](https://img.shields.io/badge/Python-0d1f3c?style=for-the-badge&logo=python&logoColor=38BDF8)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1f3c?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1f3c?style=for-the-badge&logo=typescript&logoColor=60A5FA)
+![Java](https://img.shields.io/badge/Java-0d1f3c?style=for-the-badge&logo=openjdk&logoColor=FB923C)
+![React](https://img.shields.io/badge/React-0d1f3c?style=for-the-badge&logo=react&logoColor=38BDF8)
+![Next.js](https://img.shields.io/badge/Next.js-0d1f3c?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-0d1f3c?style=for-the-badge&logo=node.js&logoColor=4ADE80)
+![Express.js](https://img.shields.io/badge/Express.js-0d1f3c?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1f3c?style=for-the-badge&logo=mongodb&logoColor=4ADE80)
+![MySQL](https://img.shields.io/badge/MySQL-0d1f3c?style=for-the-badge&logo=mysql&logoColor=38BDF8)
+![Redis](https://img.shields.io/badge/Redis-0d1f3c?style=for-the-badge&logo=redis&logoColor=EF4444)
+![Docker](https://img.shields.io/badge/Docker-0d1f3c?style=for-the-badge&logo=docker&logoColor=38BDF8)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1f3c?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-0d1f3c?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
+![Redux](https://img.shields.io/badge/Redux-0d1f3c?style=for-the-badge&logo=redux&logoColor=A78BFA)
+![Git](https://img.shields.io/badge/Git-0d1f3c?style=for-the-badge&logo=git&logoColor=F97316)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/santosh-kumar-05821728b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="santosh-kumar-05821728b" height="30" width="40" /></a>
-<a href="https://fb.com/santosh kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="santosh kumar" height="30" width="40" /></a>
-<a href="https://instagram.com/mr.santoshkumar_0001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr.santoshkumar_0001" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/mr.santosh kumar_0001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mr.santosh kumar_0001" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/santosh_kumar01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="santosh_kumar01" height="30" width="40" /></a>
-</p>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=santosh-kumar01&show_icons=true&locale=en&layout=compact" alt="santosh-kumar01" /></p>
+## 📊 GitHub Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=santosh-kumar01&show_icons=true&locale=en" alt="santosh-kumar01" /></p>
+<div align="center">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=santosh-kumar01&" alt="santosh-kumar01" /></p>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Santosh-kumar01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=e0f2fe" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Santosh-kumar01&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=F97316&currStreakLabel=38BDF8" />
 
+</div>
 
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=santosh-kumar01&" alt="santosh-kumar01" /></p>
+## 🌐 Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1f3c?style=for-the-badge&logo=linkedin&logoColor=38BDF8)](https://www.linkedin.com/in/santosh-kumar-05821728b)
+[![GitHub](https://img.shields.io/badge/GitHub-0d1f3c?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Santosh-kumar01)
+[![LeetCode](https://img.shields.io/badge/LeetCode-0d1f3c?style=for-the-badge&logo=leetcode&logoColor=F7DF1E)](https://leetcode.com/santosh_kumar01)
+[![Email](https://img.shields.io/badge/Email-0d1f3c?style=for-the-badge&logo=gmail&logoColor=EF4444)](mailto:santoshcseds12@gmail.com)
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a2a4a,100:0a0a0f&height=100&section=footer"/>
+</div>
